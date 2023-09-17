@@ -1,7 +1,7 @@
--> Hi, I’m @Sai-Charish
--> I’m interested in Logical solving of Problems
--> I’m currently learning Artificial Intelligence and Machine Learning
--> I’m looking for Collaborative Learning
+-> Hi, I’m @Sai-Charish.
+-> I’m interested in Logical solving of Problems.
+-> I’m currently learning Artificial Intelligence and Machine Learning.
+-> I’m looking for Collaborative Learning.
 
 
 <!---
