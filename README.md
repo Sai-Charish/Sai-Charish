@@ -29,7 +29,7 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 <h3>
   <p><b>Machine Learning & NLP</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,sklearn&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,sklearn,matplotlib&titles=true"/>
   </a>
 </h3>
 
@@ -101,6 +101,7 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ---
 
+<!-- 
 ### 🧩 Strengths
 
 - Strong problem-solving skills using **Java**
@@ -115,7 +116,8 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
   <img src="https://komarev.com/ghpvc/?username=Sai-Charish&label=Profile%20views&color=0e75b6&style=flat" alt="Sai-Charish" />
 </p>
 
----
+--- 
+-->
 
 ### 🔗 Connect with Me
 
