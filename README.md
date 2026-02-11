@@ -50,7 +50,7 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 <h3>
   <p><b>Tools & Version Control</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=git,github&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,eclipse,idea,jupyter,git,github&titles=true"/>
   </a>
 </h3>
 
