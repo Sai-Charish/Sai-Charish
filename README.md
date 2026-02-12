@@ -55,6 +55,10 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 </h3>
 
 ---
+<p align = "centre">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sai-Charish&theme=gruvbox-duo&hide_border=true&border_radius=4.9&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
+---
 
 ### 💼 Projects
 
