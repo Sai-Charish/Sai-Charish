@@ -21,36 +21,49 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 <h3>
   <p><b>Programming Languages</b></p>
-  <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=java,python,c&titles=true"/>
-  </a>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=java&titles=true" title="Java">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=python&titles=true" title="Python"> 
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=c&titles=true" title="C Language">
+</a>
+
 </h3>
 
 <h3>
   <p><b>Machine Learning & NLP</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,sklearn,matplotlib&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy&titles=true" title="numpy">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=pandas&titles=true" title="pandas">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=sklearn&titles=true" title="sklearn">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=matplotlib&titles=true" title="matplotlib">
   </a>
 </h3>
 
 <h3>
   <p><b>Databases</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql&titles=true" title = "Mysql">
   </a>
 </h3>
 
 <h3>
   <p><b>Web Technologies</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=html,css&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=html&titles=true" title="html">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=css&titles=true" title="css">
   </a>
 </h3>
 
 <h3>
   <p><b>Tools & Version Control</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,eclipse,idea,jupyter,git,github&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode&titles=true" title="vscode">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=eclipse&titles=true" title="eclipse">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=idea&titles=true" title="intellij idea">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="jupyter notebook">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=git&titles=true" title="git">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=github&titles=true" title="github">
+    
   </a>
 </h3>
 
