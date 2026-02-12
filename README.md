@@ -100,9 +100,9 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ### 📜 Certifications & Achievements
 
-- IBM: **Python Basics for Data Science**
-- GeeksForGeeks: **Institution Rank 20** (out of ~3000 students)
-- LeetCode: **Top 25% globally**
+- [IBM: **Python Basics for Data Science**](https://courses.edx.org/certificates/2d9da58aaf3541879930e16c3b98c72b?_gl=1*8qrw63*_gcl_au*MjA1NjI1NjIzNC4xNzMyNzI4MDcw*_ga*Njg2Njg2NDcuMTczMjcyODA3MA..*_ga_D3KS4KMDT0*MTczMjcyODA3MS4xLjEuMTczMjcyODExNy4xNC4wLjA.)
+- [GeeksForGeeks: **Institution Rank 20** (out of ~3000 students)](https://www.geeksforgeeks.org/profile/ananthojiso06h?tab=activity)
+- [LeetCode: **Top 25% globally**](https://leetcode.com/u/Sai_Charish/)
 
 ---
 
