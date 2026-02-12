@@ -55,10 +55,19 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 </h3>
 
 ---
+
+
 <p align = "center">
     <img src="https://streak-stats.demolab.com?user=Sai-Charish&theme=gruvbox-duo&hide_border=true&border_radius=4.9&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
+
+---
+
+
+<p align = "center">
+    <img src="https://leetcard.jacoblin.cool/Sai_Charish?theme=catppuccinMocha&font=Source%20Sans%20Pro&ext=heatmap"/>
+</p>
   
 ---
 
