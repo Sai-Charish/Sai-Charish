@@ -101,14 +101,14 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ---
 
-<!-- 
+ <!--
 ### 🧩 Strengths
 
 - Strong problem-solving skills using **Java**
 - Quick learner with good adaptability
 - Analytical thinking and structured approach to development
-
 ---
+-->
 
 ### 👁 Profile Views
 
@@ -116,8 +116,8 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
   <img src="https://komarev.com/ghpvc/?username=Sai-Charish&label=Profile%20views&color=0e75b6&style=flat" alt="Sai-Charish" />
 </p>
 
---- 
--->
+
+---
 
 ### 🔗 Connect with Me
 
