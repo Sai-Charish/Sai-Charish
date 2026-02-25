@@ -25,6 +25,7 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
   <img src="https://skill-icons-fast.vercel.app/api/icons?i=java&titles=true" title="Java">
   <img src="https://skill-icons-fast.vercel.app/api/icons?i=python&titles=true" title="Python"> 
   <img src="https://skill-icons-fast.vercel.app/api/icons?i=c&titles=true" title="C Language">
+  
 </a>
 
 </h3>
@@ -40,6 +41,16 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 </h3>
 
 <h3>
+  <p><b>Web Technologies</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=html&titles=true" title="html">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=css&titles=true" title="css">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=javascript&titles=true" title="Javascript">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=react&titles=true" title="React JS">
+  </a>
+</h3>
+
+<h3>
   <p><b>Databases</b></p>
   <a href="#">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql&titles=true" title = "Mysql">
@@ -47,11 +58,11 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 </h3>
 
 <h3>
-  <p><b>Web Technologies</b></p>
+  <p><b>Dev Ops</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=html&titles=true" title="html">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=css&titles=true" title="css">
-  </a>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux&titles=true" title="Linux Commands">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=docker&titles=true" title="Docker">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=kubernetes&titles=true" title="Kubernetes">
 </h3>
 
 <h3>
@@ -69,14 +80,11 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ---
 
-
 <p align = "center">
     <img src="https://streak-stats.demolab.com?user=Sai-Charish&theme=gruvbox-duo&hide_border=true&border_radius=4.9&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
-
 ---
-
 
 <p align = "center">
     <img src="https://leetcard.jacoblin.cool/Sai_Charish?theme=catppuccinMocha&font=Source%20Sans%20Pro&ext=heatmap"/>
@@ -86,7 +94,7 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ### 💼 Projects
 
-- 🩺 **PCOS Detection & Prediction System**  
+- 🩺 **PCOS Detection & Prediction System** [ (Repository Link) ](https://github.com/Sai-Charish/pcos-prediction-and-detection.git)  
   Built an AI-powered web application to predict the likelihood of **Polycystic Ovary Syndrome (PCOS)** using medical and lifestyle data.  
   Implemented a complete ML pipeline including **data preprocessing, model training, and evaluation**, and deployed it via an interactive web interface to assist early medical awareness.
 
@@ -102,11 +110,11 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ### 🏢 Experience
 
-**Data Scientist Intern** — *Rinex Technologies*  
-📅 Apr 2024 – Jul 2024 | 🌐 Remote  
+**Data Scientist Intern** — _Rinex Technologies_  
+📅 Apr 2024 – Jul 2024 | 🌐 Remote
 
-- Gained hands-on experience with **Python**, **NumPy**, **Pandas**, and **Matplotlib**  
-- Worked on **Machine Learning algorithms** including **Linear Regression** and **K-Nearest Neighbors (KNN)**  
+- Gained hands-on experience with **Python**, **NumPy**, **Pandas**, and **Matplotlib**
+- Worked on **Machine Learning algorithms** including **Linear Regression** and **K-Nearest Neighbors (KNN)**
 - Performed **data preprocessing, model building, and evaluation** using real-world datasets
 
 ---
@@ -143,7 +151,6 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sai-Charish&label=Profile%20views&color=0e75b6&style=flat" alt="Sai-Charish" />
 </p>
-
 
 ---
 
