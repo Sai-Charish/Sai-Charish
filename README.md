@@ -86,6 +86,12 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Charish&layout=compact&theme=transparent" alt="ovi" 
+</p>
+
+---
+
 <p align = "center">
     <img src="https://leetcard.jacoblin.cool/Sai_Charish?theme=catppuccinMocha&font=Source%20Sans%20Pro&ext=heatmap"/>
 </p>
