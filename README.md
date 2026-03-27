@@ -1,9 +1,5 @@
 <h2 align="center">👋 Hi there, I'm Ananthoji Sai Charish</h2>
 
-<p align="center">
-  🎓 B.Tech (AI & ML) Graduate | 💻 Java & ML Developer | 🌏 Tirupati, India
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -86,7 +82,6 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 
 ---
 
-
 <p align = "center">
     <img src="https://leetcard.jacoblin.cool/Sai_Charish?theme=catppuccinMocha&font=Source%20Sans%20Pro&ext=heatmap"/>
 </p>
@@ -94,23 +89,25 @@ I am actively seeking opportunities in **Software Development**, **Data Science*
 ---
 
 ### 💼 Projects
-- ✈️ **Intelligent Airline Pricing System**  [ (Repository Link) ](https://github.com/Sai-Charish/Intelligence-flight-system)  
- Building a full-stack AI-powered dynamic pricing web app that predicts optimal airline ticket prices using a regression model trained on historical booking data, demand patterns, and departure timing.
-Developing REST APIs with Django & Django REST Framework backed by PostgreSQL, and an interactive frontend with React.js & Tailwind CSS for real-time price querying. Implements a demand forecasting module, price history tracker, and a CI/CD-ready modular architecture for seamless model retraining and deployment.
+
+- ✈️ **Intelligent Airline Pricing System** [ (Repository Link) ](https://github.com/Sai-Charish/Intelligence-flight-system)  
+   Building a full-stack AI-powered dynamic pricing web app that predicts optimal airline ticket prices using a regression model trained on historical booking data, demand patterns, and departure timing.
+  Developing REST APIs with Django & Django REST Framework backed by PostgreSQL, and an interactive frontend with React.js & Tailwind CSS for real-time price querying. Implements a demand forecasting module, price history tracker, and a CI/CD-ready modular architecture for seamless model retraining and deployment.
 
 - 🩺 **PCOS Detection & Prediction System** [ (Repository Link) ](https://github.com/Sai-Charish/pcos-prediction-and-detection.git)  
   Built an AI-powered web application to predict the likelihood of **Polycystic Ovary Syndrome (PCOS)** using medical and lifestyle data.  
   Implemented a complete ML pipeline including **data preprocessing, model training, and evaluation**, and deployed it via an interactive web interface to assist early medical awareness.
 
 - 🎥 **Cinevault** [ (Repository Link) ](https://github.com/Sai-Charish/cinedatabase)  
-Built a React.js-powered frontend web application that serves as a personal movie discovery platform.
-Integrated with a third-party Movies API to fetch and display real-time data including popular movies, trending titles, and detailed information such as cast, ratings, genres, release dates, and overviews.
-Implemented a dynamic search feature allowing users to look up any movie and instantly retrieve its full details through live API calls.
-Designed a clean, responsive UI with smooth navigation between the home/favourite movies feed and individual movie detail pages, delivering a seamless browsing experience across devices.
+  Built a React.js-powered frontend web application that serves as a personal movie discovery platform.
+  Integrated with a third-party Movies API to fetch and display real-time data including popular movies, trending titles, and detailed information such as cast, ratings, genres, release dates, and overviews.
+  Implemented a dynamic search feature allowing users to look up any movie and instantly retrieve its full details through live API calls.
+  Designed a clean, responsive UI with smooth navigation between the home/favourite movies feed and individual movie detail pages, delivering a seamless browsing experience across devices.
 
 - 🎬 **Movie Recommendation System (NLP-based)**  
   Designed a **content-based recommender system** using **Natural Language Processing** techniques.  
   Applied text preprocessing, feature extraction, and **similarity-based algorithms** to generate personalized movie recommendations.
+
 ---
 
 ### 🏢 Experience
